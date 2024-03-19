@@ -483,6 +483,12 @@ figure.effect-ming:hover img { opacity: 0.4; }
     height: 100%;
     padding: 40px;
 }
+/* Fotos */
+#fotoAmostra{
+    border: white;
+    width: 30%;
+    width: 30%;
+}
 
 /* About */
 .tm-row-1640 { max-width: 1640px; }
